@@ -1,0 +1,178 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment/payment-options-type-payment-you-are-making.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment/payment-options-type-payment-you-are-making.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment/payments-faqs.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment/payments-faqs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/e-services/payment-save-time-pay-online.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-online-banking.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-online-banking.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-your-canadian-financial-institution.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-your-canadian-financial-institution.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment/atm.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment/atm.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-your-canadian-financial-institution/banana.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-your-canadian-financial-institution/banana.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-cheque.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-cheque.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-credit-card.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-credit-card.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-wire-transfer-non-residents.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-wire-transfer-non-residents.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/pay-canada-post.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/corporate/about-canada-revenue-agency-cra/pay-canada-post.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/due-dates.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/due-dates.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/getting-debt-relief.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/getting-debt-relief.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/required-tax-instalments.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/required-tax-instalments.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/interest-penalties-late-incorrect-payments.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/interest-penalties-late-incorrect-payments.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/repay-covid-benefits.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/individual-payments/repay-covid-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/confirm-payment.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/payments/payments-cra/confirm-payment.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/test-project-5-2026/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-48500-balance-owing.html",
+    "destination": "/test-project-5-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-48500-balance-owing.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement/options-paiement-selon-type-paiement-vous-faites.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement/options-paiement-selon-type-paiement-vous-faites.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement/paiements-faqs.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement/paiements-faqs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/paiement-gagnez-temps-payez-ligne.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/services-electroniques/paiement-gagnez-temps-payez-ligne.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-moyen-services-bancaires-ligne.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-moyen-services-bancaires-ligne.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-debit-preautorise.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-debit-preautorise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-aupres-votre-institution-financiere-canadienne.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-aupres-votre-institution-financiere-canadienne.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement/guichet-automatique.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/faire-paiement/guichet-automatique.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-aupres-votre-institution-financiere-canadienne/nouvelle-page-1790264034893.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-aupres-votre-institution-financiere-canadienne/nouvelle-page-1790264034893.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-cheque.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-cheque.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-carte-credit.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-carte-credit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-virement-telegraphique-non-residents.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/a-propos-agence-revenu-canada-arc/payer-virement-telegraphique-non-residents.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/a-propos-agence-revenu-canada-arc/payer-a-postes-canada.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/organisation/a-propos-agence-revenu-canada-arc/payer-a-postes-canada.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/dates-limites.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/dates-limites.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/obtenir-allegement-dette.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/obtenir-allegement-dette.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/acomptes-provisionnels-requis.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/acomptes-provisionnels-requis.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/interets-penalites-paiements-retard-errones.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/interets-penalites-paiements-retard-errones.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/rembourser-prestations-covid.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/paiements-particuliers/rembourser-prestations-covid.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/paiements/paiements-arc/confirmer-paiement.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/paiements/paiements-arc/confirmer-paiement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots.html",
+    "destination": "/test-project-5-2026/fr/services/impots.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses/ligne-48500-solde.html",
+    "destination": "/test-project-5-2026/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses/ligne-48500-solde.html"
+  }
+]
